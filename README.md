@@ -8,6 +8,8 @@ https://komihori.github.io/
 * Arduino-MCP23017-InputOutput-Demo https://github.com/komihori/Arduino-MCP23017-InputOutput-Demo
 #### [Unity]
 * ADX2Manager https://github.com/komihori/ADX2Manager
+* SaveDataManagerForUnity https://github.com/komihori/SaveDataManagerForUnity
+* SoundManager https://github.com/komihori/SoundManager
 <!--
 **komihori/komihori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
